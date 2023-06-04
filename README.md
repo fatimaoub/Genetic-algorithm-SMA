@@ -1,5 +1,6 @@
 ## algorithme génétique
-### modèle simple
+<h2> modèle simple  </h2>
 <img  src="videos/algoGn1.gif"/>
-### modèle des îles
+
+<h2> modèle des îles </h2>
 <img  src="videos/algoGn2.gif"/>
